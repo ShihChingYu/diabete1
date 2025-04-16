@@ -1,2 +1,4 @@
 ^diabete1\.Rproj$
 ^\.Rproj\.user$
+^vignettes/\.quarto$
+^vignettes/*_files$
